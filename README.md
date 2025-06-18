@@ -35,7 +35,7 @@ Estou utilizando como base a trilha de formação da Alura, que abrange:
 - Tratamento de JSON com bibliotecas nativas
 - Organização por pacotes e responsabilidades
 
----
+### 📚 3. Exercícios: Atividades práticas realizadas para fixação dos conceitos.
 
 ## 🔮 Próximos passos
 
